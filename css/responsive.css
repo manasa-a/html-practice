@@ -1,0 +1,21 @@
+
+@media screen 
+  and (min-width: 0px) 
+  and (max-width: 800px) {
+
+	/* Styles */
+	
+	.para-banner {
+		text-align: center!important;
+	}
+
+	.para-heading{
+		text-align: center!important;
+	}
+
+	.banner-text {
+    margin-bottom: 100px!important;
+    
+    margin-left: 0px!important;
+    text-align : center!important;
+}
